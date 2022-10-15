@@ -1,4 +1,4 @@
-![lul1](https://user-images.githubusercontent.com/62227321/196005686-3328f0b4-d40b-486d-8ee0-4b85756349ba.png)
+![lul1 (1)](https://user-images.githubusercontent.com/62227321/196005763-aa26d5aa-0d1c-48b5-b366-3d10297f8757.png)
 
 <div align="left">
   <h1> Hello! I'm <strong> Allan George </strong>  </h1>
