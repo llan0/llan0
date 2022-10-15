@@ -1,4 +1,5 @@
-![hand (2)](https://user-images.githubusercontent.com/62227321/196005424-3983e0cd-723f-49d9-8df8-4d8282e9c60a.png)
+![lul](https://user-images.githubusercontent.com/62227321/196005514-bf38a6dc-0191-472d-8100-5b54fd359f43.png)
+
 
 <div align="left">
   <h1> Hello! I'm <strong> Allan George </strong>  </h1>
