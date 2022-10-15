@@ -1,6 +1,6 @@
-<h1> Hello!👋 </h1>
+<h1> Hello! I'm <strong> Allan George </strong>  </h1>
 
-<p> I'm <strong> Allan George </strong> and I'm currently a 4rd year Computer Science student at Toronto Metropolitan University <i>(formerly, Ryerson University)</i>  </p>
+<p> I'm currently a 4rd year Computer Science student at Toronto Metropolitan University <i>(formerly, Ryerson University)</i>  </p>
 
 <div>
 📫 You can reach me at allgeocode@gmail.com <br>
