@@ -1,7 +1,10 @@
 <h1 align="center"> Hello! I'm Allan George </h1>
-<h3 align="center">A Computer Science student passionate in full stack web development.</h3>
 
-- 📫 You can reach me at **allgeocode@gmail.com**
+<h3 align="center">A Computer Science student passionate in full stack web development.</h3>
+ <div align="center">
+  <p> allgeocode@gmail.com </p>
+ </div>
+
 
 
 
