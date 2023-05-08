@@ -2,7 +2,7 @@
 
 <div align="left">
   <h1> Hello!   </h1>
-  <p>I'm <strong> Allan George. </strong> I'm currently a Web Developer Osler, Hoskin & Harcourt LLP and a Computer Science student at Toronto Metropolitan University <i>(formerly, Ryerson University). </i> My fields of interest are full stack web development and datascience. </p>
+  <p>I'm <strong> Allan George. </strong> I'm currently a Web Developer at Osler, Hoskin & Harcourt LLP and a Computer Science student at Toronto Metropolitan University <i>(formerly, Ryerson University). </i> My fields of interest are full stack web development and datascience. </p>
 
   📫 You can reach me at allgeocode@gmail.com <br>
   👨🏽‍💻 My LinkedIn: https://www.linkedin.com/in/allgeo/
