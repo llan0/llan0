@@ -6,4 +6,6 @@
 
   📫 You can reach me at allgeocode@gmail.com <br>
   👨🏽‍💻 My LinkedIn: https://www.linkedin.com/in/allgeo/
+  😃 My Portfolio: https://allgeo.ca/
+  
 </div>
