@@ -1,6 +1,5 @@
-![Yesss](https://user-images.githubusercontent.com/62227321/200392094-be27d1a4-03e4-4674-899e-7e4971c1bfd8.png)
-
 <div align="left">
+  <img src="https://github.com/allgeo/allgeo/assets/62227321/19546b5e-46ee-49e7-a64f-51c76b188bb8" alt="allgeo" >
   <h1> Hello!   </h1>
   <p>I'm <strong> Allan George. </strong> I'm currently a Web Developer at Osler, Hoskin & Harcourt LLP and a Computer Science student at Toronto Metropolitan University <i>(formerly, Ryerson University). </i> My fields of interest are backend development and DevOps. </p>
 
