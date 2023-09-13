@@ -8,6 +8,6 @@
   > 😃 My Portfolio: https://allgeo.ca/<br>  
 
   I'm currently working on,
-  > [programinG_waR_crimeS](https://github.com/allgeo/programinG_waR_crimeS) - A React.js, Go, MongoDB image forum that uses AWS S3<br>
+  > [issues](https://github.com/allgeo/issues) - A GitHub open-source issue finder. <br>
   
 
