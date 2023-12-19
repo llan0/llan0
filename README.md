@@ -3,11 +3,7 @@
   <h1> Hello!   </h1>
   <p>I'm <strong> Allan George. </strong> Just a curious engineer :) </p>
 
-  > 📫 You can reach me at allgeocode@gmail.com <br>
-  > 👨🏽‍💻 My LinkedIn: https://www.linkedin.com/in/allgeo/ <br>
-  > 😃 My Portfolio: https://allgeo.ca/<br>  
-
-  I'm currently working on,
-  > [issues](https://github.com/allgeo/issues) - A GitHub open-source issue finder. <br>
-  
+  > [📫 Email](mailto:allgeocode@gmail.com) <br>
+  > [👨🏽‍💻 LinkedIn](https://github.com/allgeo/issues) <br>
+  > [😃 Portfolio](https://github.com/allgeo/issues) <br>
 
