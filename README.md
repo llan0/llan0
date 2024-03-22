@@ -5,5 +5,5 @@
 
   > [📫 Email](mailto:allgeocode@gmail.com) <br>
   > [👨🏽‍💻 LinkedIn](https://github.com/allgeo/issues) <br>
-  > [😃 Portfolio](https://github.com/allgeo/issues) <br>
+  > [😃 Portfolio](https://allgeo.ca) <br>
 
