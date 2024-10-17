@@ -7,4 +7,4 @@
 
 Currently working on,
 - <a href="https://statsgenerator.com" target="_blank"> <img src="https://github.com/user-attachments/assets/7256c5b9-4afa-4c4e-a833-9883fe201f65" width="12"/> statsgenerator.com<a/>, a centralized hub to generate user stats. 
-- Ghess, a mini-chess engine in Golang
+- CChess, a mini-chess engine in C
