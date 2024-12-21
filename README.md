@@ -1,8 +1,12 @@
+\/ \> whoami <br>
+> ![allan](https://github.com/user-attachments/assets/f74424a3-b8f7-4291-a4c3-630916529ea7) <br>
 
-  <h1> Hello!   </h1>
+\/ \> about <br> 
+> an engineer & a human. interested in software development & cloud computing. <br> 
+I enjoy learning new technologies, working out, roadtrips, hiking... and so on
 
-  > [📫 Email](mailto:allgeocode@gmail.com) <br>
-  > [👨🏽‍💻 LinkedIn](https://github.com/allgeo/issues) <br>
-  > [😃 Portfolio](https://allgeo.ca) <br>
+\/ \> socials <br> 
+  > [email](mailto:allgeocode@gmail.com) <br>
+  > [linkedin](https://github.com/allgeo/issues) <br>
+  > [website](https://allgeo.ca) <br>
 
-<a href="https://statsgenerator.com" target="_blank"> <img src="https://github.com/user-attachments/assets/7256c5b9-4afa-4c4e-a833-9883fe201f65" width="12"/> statsgenerator <i>(demo)<i/><a/>
