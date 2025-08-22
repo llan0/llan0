@@ -1,5 +1,5 @@
 \/ \> whoami <br>
-> ![lan](https://github.com/user-attachments/assets/f74424a3-b8f7-4291-a4c3-630916529ea7) <br>
+> Lan <br>
 
 \/ \> about <br> 
 > an engineer & a human. interested in software development & cloud computing. <br> 
