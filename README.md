@@ -1,5 +1,5 @@
 \/ \> whoami <br>
-> Lan <br>
+> Allan <br>
 
 \/ \> about <br> 
 > an engineer & a human. interested in software development & cloud computing. <br> 
