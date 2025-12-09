@@ -9,5 +9,5 @@ I enjoy learning new technologies, attending tech events, hiking... and so on
   > [email](mailto:llansgeo@gmail.com) <br>
 
 \/ \> currently working on, <br>
-> **multichat** — Kick and Twitch multi chat client _(will be open sourced soon!)_ <br>
+> [**multichat**](https://github.com/llan0/multichat) — A Kick and Twitch multichat client <br>
 > [**rateMySetup**](https://ratemysetups.up.railway.app/) — RateMyProf but for PC setups & configs
