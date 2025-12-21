@@ -16,5 +16,5 @@ I enjoy learning new technologies, attending tech events, outdoors... and so on
 \/ \> setup <br>
 > Hardware — M4 MacBook <br>
 > Peripherals — NocFree Lite Split Keyboard & Logitech Superlight <br>
-> Editors — Zed / Ghostty <br>
+> Editors — Zed / Helix & Ghostty <br>
 > Notes —  Notion & Apple Notes <br>
