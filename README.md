@@ -16,5 +16,5 @@ I enjoy learning new technologies, attending tech events, outdoors... and so on
 \/ \> setup <br>
 > Hardware — M4 MacBook <br>
 > Peripherals — [NocFree Lite Split](https://www.nocfree.com/products/nocfree-lite?srsltid=AfmBOoqCbrykSCTaTZ_TwjVsKo8kU86Vz0MdRZXkUY6JdEAl-1hdswNT) & Logitech Superlight<br>
-> Editors — [Zed](https://zed.dev/) / [Helix](https://helix-editor.com/), [Ghostty](https://ghostty.org/docs) & [Tmux](https://github.com/tmux/tmux) <br>
-> Notes —  Notion / Apple Notes <br>
+> Editors — [Helix](https://helix-editor.com/), [Ghostty](https://ghostty.org/docs) & [Tmux](https://github.com/tmux/tmux) <br>
+> Notes —  Notion <br>
