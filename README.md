@@ -10,8 +10,6 @@ I enjoy learning new technologies, attending tech events, outdoors... and so on
 
 \/ \> currently working on <br>
 > [**multichat**](https://github.com/llan0/multichat) — A Kick and Twitch multichat client <br>
-> [**rateMySetup**](https://ratemysetups.up.railway.app/) — RateMyProf but for PC setups & configs
-
 
 \/ \> setup <br>
 > Hardware — M4 MacBook <br>
