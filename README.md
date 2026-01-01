@@ -9,7 +9,11 @@ I enjoy learning new technologies, attending tech events, outdoors... and so on
   > [email](mailto:llansgeo@gmail.com) <br>
 
 \/ \> currently working on <br>
-> [**multichat**](https://github.com/llan0/multichat) — A Kick and Twitch multichat client <br>
+> [**multichat**](https://github.com/llan0/multichat) — Twitch & Kick multichat client in Go,<br>
+ <img 
+    src="https://github.com/user-attachments/assets/5c1f03fb-8bb2-49eb-aaae-295807bedba5" 
+    width="170" 
+  />
 
 \/ \> setup <br>
 > Hardware — M4 MacBook <br>
