@@ -11,7 +11,7 @@ I enjoy learning new technologies, attending tech events, outdoors... and so on
 \/ \> currently working on <br>
 > [**multichat**](https://github.com/llan0/multichat) — Twitch & Kick multichat client in Go,<br>
  <img 
-    src="https://github.com/user-attachments/assets/5c1f03fb-8bb2-49eb-aaae-295807bedba5" 
+    src="https://github.com/user-attachments/assets/a80c114a-8ab3-4a88-87a4-f37fac7380fc" 
     width="170" 
   />
 
